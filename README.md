@@ -1,0 +1,1 @@
+This project from the course COMP3308 in USYD explores 3 different types of machine learning algorithms. The algorithms I coded by hand are Nearest Neighbour(NN), Naive Bayes(NB), and ensemble. This project also shows how my algorithms compare to weka's algorithms when used on the smae dataset.
